@@ -2,5 +2,18 @@
 @use '../abstract/_mixins' as m;
 
 footer{
-    
+    padding-top: 50px;
+    .footer__top{
+        display: grid;
+        grid-template-columns: 1fr auto 1fr;
+        .empty{
+            grid-column: 1;
+        }
+        .footer__content{
+            grid-column: 2;
+        }
+        .footer_button{
+            grid-column: 3;
+        }
+    }
 }
