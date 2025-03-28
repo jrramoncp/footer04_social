@@ -1,4 +1,4 @@
-# Simple Footer
+# Social Footer
 
 ## 📸 Capturas de pantalla / Screenshots
 
@@ -41,8 +41,8 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos / To run this
 
 1. **Clona este repositorio / Clone this repository:**
    ```sh
-   git clone https://github.com/jrramoncp/footer03_simple
-   cd footer03_simple
+   git clone https://github.com/jrramoncp/footer04_social
+   cd footer04_social
    ```
 
 2. **Instala las dependencias / Install dependencies:**
